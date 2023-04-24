@@ -1,6 +1,6 @@
 # Asterious
 ### Pygame Space Shooter
- \*==================================*/
+*==================================*
 
 Asterious is a fight to defend the Earth from ruthless beings in space.
 The player controls a spaceship by moving it and firing at the descending-
